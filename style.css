@@ -1,3 +1,46 @@
-div{
-  border:solid red 2px;
+body{
+  margin:0;
+  padding:0;
+}
+.minfooter{
+  background-color:#131516;
+  color:#848787;
+  display:flex;
+  justify-content: space-around;
+  height:75px;
+}
+.minficons i{
+  color:gray;
+  padding-left:15px;
+  padding-right:15px;
+  margin-top:30px;
+  height:
+}
+.minftext{
+  margin-top:16px;
+}
+.mins5white{
+  color:white;
+}
+.mains17{
+  background-color: #1A1D1F;
+  display:flex;
+  justify-content: space-around;
+  height:350px;
+  align-items:flex-start;
+  color:#848787;
+  padding:12%;
+
+
+}
+.mins5box{
+  width:18%;
+
+}
+.mins5box img{
+  height:35px;
+  width:30px;
+}
+.mins5box h3{
+  color:white;
 }
