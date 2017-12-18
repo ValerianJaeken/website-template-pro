@@ -1,8 +1,76 @@
+
 body {
   margin: 0;
   padding: 0;
 }
 
+/* ==================================== MAIN-HOME ========================= */
+    /* ========= SECOND SECTION ========== */
+.mains2{
+  display:flex;
+  justify-content: center;
+  height:300px;
+}
+
+.ms2box{
+  width:280px;
+  display:flex;
+  padding-left:40px;
+  padding-right:40px;
+  margin-top:40px;
+}
+.ms2icon{
+  height:100px;
+  width:50px;
+  margin-top:20px;
+}
+.ms2text{
+  margin-left:10px;
+}
+.ms2box i{
+  color:#2b55c4;
+}
+.ms2box span{
+  color:#2b55c4;
+}
+.ms2box h3{
+  font-size:22px;
+}
+.ms2box i{
+  margin-right:30px;
+}
+
+/* ========================= THIRD SECTION ==================================== */
+.mains3{
+  background-color:#f2f2f2;
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  text-align:center;
+}
+.ms3text{
+  width:500px;
+  margin-top:30px;
+}
+.ms3text h2{
+  font-size:32px;
+}
+.ms3text p{
+  color:gray;
+}
+.ms3text span{
+  background-color:#1052df;
+  border-radius:5px;
+  padding:18px;
+  color:white;
+  font-size:12px;
+  letter-spacing: 2px;
+
+}
+.ms3img{
+  margin-top:40px;
+}
+/* ===============================FOOTER================================ */
 .minfooter {
   background-color: #131516;
   color: #848787;
