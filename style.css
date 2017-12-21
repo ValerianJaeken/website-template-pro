@@ -8,7 +8,32 @@ body {
 /* ============================ HEADER =========================== */
 
 /* ==================================== MAIN-HOME ========================= */
-    /* ========= MAIN-HOME SECOND SECTION ========== */
+    /* ========= MAIN-HOME FIRST SECTION ========== */
+.mains1{
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  text-align:center;
+  background-image:url("images/3214321413.jpg");
+  background-size:cover;
+  height:1000px;
+}
+.ms1text h1{
+  font-size:50px;
+  color:white;
+}
+.ms1text h4{
+  color:white;
+}
+.ms1text p{
+  color:white;
+  background-color:#1052df;
+  border-radius:5px;
+  padding:15px;
+  width:150px;
+  margin-left:35%;
+}
+/* ========= MAIN-HOME SECOND SECTION ========== */
 .mains2{
   display:flex;
   justify-content: center;
